@@ -1,3 +1,4 @@
 - Fun Facts are Weird
 - Is some "Balkan" music the same as some "Middle Eastern" music?
 - derivatives and the present
+- People like me in the jazz program
