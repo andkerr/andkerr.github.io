@@ -38,7 +38,6 @@ nav > a:hover {
 }
 .inline:hover {
     text-decoration: underline;
-    font-weight: bold;
     color: black;
 }
 .inline:visited {
