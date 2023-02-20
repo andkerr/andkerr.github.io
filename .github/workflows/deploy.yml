@@ -19,6 +19,9 @@ jobs:
       
       - name: Upload
         uses: actions/upload-artifact@main
+        with:
+          name: 'github-pages'
+          path: 'build/final'
       
       - name: Deploy
         uses: actions/deploy-pages@v1
