@@ -20,7 +20,7 @@ ${BUILD_DIR}/final: ${BUILD_DIR}/jinja ${BUILD_DIR}/static
 	rm -rf $@
 	mkdir -p $@
 	for src_dir in $^; do \
-		cp -R "$$src_dir/" $@; \
+		cp -a "$$src_dir/." $@; \
 	done
 
 ${BUILD_DIR}/jinja: ${VENV_DIR} ${JINJA_FILES}
