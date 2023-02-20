@@ -13,3 +13,5 @@ Anyway, let's go!
 ### Building Abstractions with Procedures
 
 __Exercise 1.3__ - Define a procedure that takes three numbers as arguments and returns the sum of the squares of the two larger numbers. ([solution](https://github.com/andkerr/sicp/blob/main/ch1/1_3.rkt))
+
+This one wasn't too bad. I wasn't sure how to best determine the largest two arguments, but settled on identifying the one to 'leave out' using a `min` procedure that takes three arguments.
