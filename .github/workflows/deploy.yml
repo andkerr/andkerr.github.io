@@ -8,12 +8,16 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
-    
     permissions:
       pages: write      # to deploy to Pages
       id-token: write 
+      
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     
+    runs-on: ubuntu-latest
     steps:
       - name: Fetch files
         uses: actions/checkout@v3
@@ -24,7 +28,9 @@ jobs:
       - name: Upload
         uses: actions/upload-artifact@main
         with:
+          name: 'github-pages'
           path: 'build/final'
       
-      - name: Deploy
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v1
