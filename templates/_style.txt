@@ -1,0 +1,3 @@
+<h1> For 'Andrew Kerr' banner
+<h2> For page-specific titles ('Posts', 'About', etc.)
+<h3> and below for headings within a post

@@ -1,6 +1,0 @@
-- Fun Facts are Weird
-- Is some "Balkan" music the same as some "Middle Eastern" music?
-- derivatives and the present
-- People like me in the jazz program
-- what would I do if grad school was a definite non-option?
-- Does my "disillusioned w/ performing music prospects" story play well with people for certain reasons?
