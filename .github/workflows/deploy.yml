@@ -24,7 +24,7 @@ jobs:
         run: make build
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@b36f842fa378d7cbf6695fcac86ecdcef3af8af3
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: build/final
