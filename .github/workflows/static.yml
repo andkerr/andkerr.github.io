@@ -37,7 +37,6 @@ jobs:
       - name: Build
         run: |
           make build
-          tree build
           
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
