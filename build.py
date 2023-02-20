@@ -24,6 +24,8 @@ CONTEXT = {
     },
 }
 
+MARKDOWN2_EXTRAS = ['fenced-code-blocks']
+
 def get_args() -> Namespace:
     parser = ArgumentParser(
         description='Compile Jinja templates and blog posts')
@@ -42,7 +44,7 @@ def compile_post(env, post: str, output_dir) -> None:
     post_dest = Path(post)
     post_source = Path('posts/' + post_dest.stem + '.md')
     post_html = markdown2.markdown(post_source.read_text(),
-        extras=['fenced-code-blocks'])
+        extras=MARKDOWN2_EXTRAS)
     CONTEXT['post_content'] = post_html
 
     with (output_dir / post_dest).open('w') as f:
@@ -52,7 +54,8 @@ def compile_post(env, post: str, output_dir) -> None:
 def compile_links(env, output_dir) -> None:
     links_source = Path('links.md')
     links_dest = Path('links.html')
-    links_html = markdown2.markdown(links_source.read_text())
+    links_html = markdown2.markdown(links_source.read_text(),
+        extras=MARKDOWN2_EXTRAS)
     CONTEXT['links_content'] = links_html
     with (output_dir / links_dest).open('w') as f:
         template = env.get_template('links.html')
