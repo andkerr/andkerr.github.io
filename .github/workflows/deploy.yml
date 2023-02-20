@@ -10,6 +10,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write 
+    
     steps:
       - name: Fetch files
         uses: actions/checkout@v3
