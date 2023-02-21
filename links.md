@@ -1,6 +1,6 @@
 ### People
-- [Brian Bi](https://brianbi.ca/)
 - [Alexander Stepanov](http://stepanovpapers.com/)
+- [Amit Patel](https://www.redblobgames.com/)
 
 ### Talks
 - [Kate Gregory, _Naming is Hard: Let's Do Better_](https://www.youtube.com/watch?v=ZDluHz-ybPE)
