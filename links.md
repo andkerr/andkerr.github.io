@@ -9,7 +9,7 @@
 
 ### Handy References
 - [i3](https://i3wm.org/docs/refcard.html)
-- [gdb vs. llvm](https://lldb.llvm.org/use/map.html
+- [gdb vs. llvm](https://lldb.llvm.org/use/map.html)
 
 ### Miscellaneous
 - [Algonquin Adventures](https://algonquinadventures.boardhost.com/)
