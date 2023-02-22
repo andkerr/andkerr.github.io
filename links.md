@@ -7,5 +7,9 @@
 - [Sean Parent, _C++ Seasoning_](https://www.youtube.com/watch?v=W2tWOdzgXHA&t=587s)
 - [Conor Hoekstra, _Algorithm Intuition_](https://www.youtube.com/watch?v=48gV1SNm3WA&t=0s)
 
+### Handy References
+- [i3](https://i3wm.org/docs/refcard.html)
+- [gdb vs. llvm](https://lldb.llvm.org/use/map.html
+
 ### Miscellaneous
 - [Algonquin Adventures](https://algonquinadventures.boardhost.com/)
