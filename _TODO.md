@@ -11,5 +11,6 @@ Some Computer Scientists / Programmers
 - Grace Murray Hopper (original programmer on the Harvard Mark |, found a bug!)
 
 Books
-- From Mathematics to Generic Programming
-- Elements of Programming
+- From Mathematics to Generic Programming, Alexander Stepanov & Daniel Rose
+- Elements of Programming, Alexander Stepanov & Paul McJones
+- Design and Evolution of C++, Bjarne Stroustrup
