@@ -9,3 +9,7 @@ Some Computer Scientists / Programmers
 - Alexander Stepanov (STL originator, generic programming)
 - Edsger Dijkstra\\ (one of the first, structured programming, many famous algorithms)
 - Grace Murray Hopper (original programmer on the Harvard Mark |, found a bug!)
+
+Books
+- From Mathematics to Generic Programming
+- Elements of Programming
