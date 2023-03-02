@@ -12,6 +12,7 @@
 - [i3](https://i3wm.org/docs/refcard.html)
 - [gdb vs. llvm](https://lldb.llvm.org/use/map.html)
 - [ACM Turing Lectures](https://amturing.acm.org/lectures.cfm)
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 
 ### Miscellaneous
 - [Algonquin Adventures](https://algonquinadventures.boardhost.com/)
