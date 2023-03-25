@@ -1,6 +1,7 @@
 ### People
 - [Alexander Stepanov](http://stepanovpapers.com/)
 - [Amit Patel](https://www.redblobgames.com/)
+- [Brian "Beej Jorgensen" Hall](https://beej.us/)
 - [Julia Evans](https://jvns.ca/)
 - [Peter Norvig](https://norvig.com/)
 
