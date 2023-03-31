@@ -14,3 +14,6 @@ Books
 - From Mathematics to Generic Programming, Alexander Stepanov & Daniel Rose
 - Elements of Programming, Alexander Stepanov & Paul McJones
 - Design and Evolution of C++, Bjarne Stroustrup
+
+Other
+- A9 Videos, various playists for Alexander Stepanov
