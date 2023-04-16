@@ -1,6 +1,7 @@
 ### People
 - [Alexander Stepanov](http://stepanovpapers.com/)
 - [Amit Patel](https://www.redblobgames.com/)
+- [David Musser (Generic Programming)](https://www.cs.rpi.edu/~musser/gp/index.html)
 - [Brian "Beej Jorgensen" Hall](https://beej.us/)
 - [Julia Evans](https://jvns.ca/)
 - [Peter Norvig](https://norvig.com/)
