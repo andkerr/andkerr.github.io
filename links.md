@@ -3,6 +3,7 @@
 - [Amit Patel](https://www.redblobgames.com/)
 - [David Musser (Generic Programming)](https://www.cs.rpi.edu/~musser/gp/index.html)
 - [Brian "Beej Jorgensen" Hall](https://beej.us/)
+- [Foley](http://smartalecmusic.com/)
 - [Julia Evans](https://jvns.ca/)
 - [Peter Norvig](https://norvig.com/)
 - [Tom Hull](http://tomhull.com/ocston/blog/)
@@ -22,5 +23,4 @@
 
 ### Miscellaneous
 - [Algonquin Adventures](https://algonquinadventures.boardhost.com/)
-- [Foley](http://smartalecmusic.com/)
 - [Ottertooth](http://www.ottertooth.com/)
