@@ -5,6 +5,7 @@
 - [Brian "Beej Jorgensen" Hall](https://beej.us/)
 - [Julia Evans](https://jvns.ca/)
 - [Peter Norvig](https://norvig.com/)
+- [Tom Hull](http://tomhull.com/ocston/blog/)
 
 ### Talks
 - [Kate Gregory, _Naming is Hard: Let's Do Better_](https://www.youtube.com/watch?v=ZDluHz-ybPE)
