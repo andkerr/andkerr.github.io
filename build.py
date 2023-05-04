@@ -16,7 +16,8 @@ CONTEXT = {
     },
     'posts' : {
         'Recursive Colouring' : 'recursive-colours.html',
-        'SICP Diary - Chapter 1': 'sicp-1.html',
+        'SICP Diary - Chapter 1' : 'sicp-1.html',
+        'Elements of Programming' : 'eop.html',
     },
     'contact': {
         'github_url' : 'https://github.com/andkerr',
