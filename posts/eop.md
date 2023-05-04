@@ -3,6 +3,8 @@
 
 ### Chapter 1 - Foundations
 
+---
+
 A value type is _uniquely represented_ if and only if at most one value corresponds
 to each abstract entity.
 
