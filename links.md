@@ -2,6 +2,7 @@
 - [Alexander Stepanov](http://stepanovpapers.com/)
 - [Amit Patel](https://www.redblobgames.com/)
 - [David Musser (Generic Programming)](https://www.cs.rpi.edu/~musser/gp/index.html)
+- [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
 - [Brian "Beej Jorgensen" Hall](https://beej.us/)
 - [Foley](http://smartalecmusic.com/)
 - [Julia Evans](https://jvns.ca/)
