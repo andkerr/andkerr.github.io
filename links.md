@@ -1,13 +1,9 @@
 ### People
 - [Alexander Stepanov](http://stepanovpapers.com/)
-- [Amit Patel](https://www.redblobgames.com/)
-- [David Musser (Generic Programming)](https://www.cs.rpi.edu/~musser/gp/index.html)
 - [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
-- [Brian "Beej Jorgensen" Hall](https://beej.us/)
+- [Fabrice Bellard](https://bellard.org/)
 - [Foley](http://smartalecmusic.com/)
-- [Julia Evans](https://jvns.ca/)
 - [Peter Norvig](https://norvig.com/)
-- [Tom Hull](http://tomhull.com/ocston/blog/)
 
 ### Talks
 - [Kate Gregory, _Naming is Hard: Let's Do Better_](https://www.youtube.com/watch?v=ZDluHz-ybPE)
@@ -25,4 +21,5 @@
 
 ### Miscellaneous
 - [Algonquin Adventures](https://algonquinadventures.boardhost.com/)
+- [cat-v](http://uriel.cat-v.org)
 - [Ottertooth](http://www.ottertooth.com/)
