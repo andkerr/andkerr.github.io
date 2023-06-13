@@ -4,6 +4,7 @@
 - [Fabrice Bellard](https://bellard.org/)
 - [Foley](http://smartalecmusic.com/)
 - [Peter Norvig](https://norvig.com/)
+- [Russ Cox](https://swtch.com/) (and his [blog](https://research.swtch.com/))
 
 ### Talks
 - [Kate Gregory, _Naming is Hard: Let's Do Better_](https://www.youtube.com/watch?v=ZDluHz-ybPE)
