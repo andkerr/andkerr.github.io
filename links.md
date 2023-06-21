@@ -20,6 +20,7 @@
 - [ACM Turing Lectures](https://amturing.acm.org/lectures.cfm)
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 - [vim-galore](https://github.com/mhinz/vim-galore)
+- [Agner Fog's Optimization Resources](https://www.agner.org/optimize/)
 
 ### Miscellaneous
 - [Algonquin Adventures](https://algonquinadventures.boardhost.com/)
