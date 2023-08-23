@@ -1,6 +1,7 @@
 ### People
 - [Alexander Stepanov](http://stepanovpapers.com/)
 - [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
+- [Chris Wellons](https://nullprogram.com/)
 - [Fabrice Bellard](https://bellard.org/)
 - [Foley](http://smartalecmusic.com/)
 - [Peter Norvig](https://norvig.com/)
