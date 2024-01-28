@@ -1,12 +1,17 @@
 ### People
 - [Alexander Stepanov](http://stepanovpapers.com/)
-- [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
+- [Bruce Dawson](https://randomascii.wordpress.com/)
 - [Chris Wellons](https://nullprogram.com/)
+- [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
 - [Fabrice Bellard](https://bellard.org/)
 - [Foley](http://smartalecmusic.com/)
+- [Paul Hsieh](http://www.azillionmonkeys.com/qed/index.html)
+- [Peter Kankowski](https://www.strchr.com/)
 - [Peter Norvig](https://norvig.com/)
-- [Russ Cox](https://swtch.com/)
 - [Rob Pike](ttp://herpolhode.com/rob/)
+- [Russ Cox](https://swtch.com/)
+- [Tom Duff](http://www.iq0.com/)
+
 
 ### Talks
 - [Kate Gregory, _Naming is Hard: Let's Do Better_](https://www.youtube.com/watch?v=ZDluHz-ybPE)
