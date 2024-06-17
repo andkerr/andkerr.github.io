@@ -1,2 +1,5 @@
 - truncated division (C/C++) vs. floor division (Python) vs. Euclidian division
 - markov chain text generation example + analysis
+- why does (head; tail) < $some_file not print the "true tail" for small inputs?
+- Doug McIlroy's Concurrent Prime Sieve
+- My experiment with Rachel Kroll's "bb"
